@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "惹かれあっちゃって",
+  "base_artist": "kiyu",
+  "createdAt": "2026-03-08T10:27:35.848033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "惹かれあっちゃって",
+      "artist": "KIYU",
+      "has_synced": false,
+      "path": "select/01_惹かれあっちゃって_KIYU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "惹かれあっちゃって",
+      "artist": "kiyu",
+      "has_synced": false,
+      "path": "select/pl_01_惹かれあっちゃって_kiyu.txt"
+    }
+  ]
+}
